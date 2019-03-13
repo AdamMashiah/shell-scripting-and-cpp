@@ -1,0 +1,14 @@
+hello 
+
+
+for running the task scrips please enter the following command 
+
+basicCheck.sh <current dir(including the /basicCheck.sh> <file.exe>
+
+*for creating an prexecut file please enter the following command 
+
+g++ <prg.cpp> -o <any.exe>
+
+*make sure you have in your currend dir the "makefile" for creating the executable file
+
+*make sure you have only one main included cpp program in the current dir
